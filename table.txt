@@ -1,0 +1,11 @@
+[Page 0]
+| is_root:      TRUE
+| type:         LEAF
+| parent:       0
+| num_cell:     3
+| right_child:  0
+|------------------------------
+| Cell1(KEY - VALUE): [ 3562 - 0 ]
+| Cell1(KEY - VALUE): [ 14707 - 0 ]
+| Cell1(KEY - VALUE): [ 28881 - 0 ]
+'------------------------------
